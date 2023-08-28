@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mascamigo</string>
+    <string name="butRegistrar">Registrar</string>
+    <string name="tv1">Login</string>
+    <string name="btnAnterior">Regresar</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnEstab">Regresar</string>
+    <string name="btnCliente">Cliente</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_client_vete">Client_Vete</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Nom_Estab">Establedimiento</string>
+</resources>
